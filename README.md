@@ -58,6 +58,15 @@ Clinic Management <img width="2554" height="1054" alt="image" src="https://githu
 ````
 
 ---
+## 🏥 Screenshots
+
+| Clinic Management | Settings |
+|------------------|----------|
+| ![](https://github.com/user-attachments/assets/0dabf9e0-01f6-4fe7-a01a-16d300b9c4a4) | ![](https://github.com/user-attachments/assets/55994687-ed06-458c-b337-30718ed3cde6) |
+
+| Analytics |
+|----------|
+| ![](https://github.com/user-attachments/assets/62a32e6e-b8ae-4c62-80b0-05f5bfee03bc) |
 
 ## 🛠️ Technology Stack
 
