@@ -12,7 +12,8 @@ Experience a professional, secure entry point designed with high-trust aesthetic
 - **Persistent Sessions**: Your session remains active across tab closes and refreshes within a 1-hour security window.
 - **Demo Access**: Use `demo@careconnect.com` / `password123` to explore the full suite of tools.
 
-![Login Page](file:///C:/Users/sagar/.gemini/antigravity/brain/6ee1a264-2cd9-4e15-ab34-ae4358fd05dd/login_page_1773840991123.png)
+![Login Page]<img width="2319" height="1101" alt="image" src="https://github.com/user-attachments/assets/5b4558ea-31aa-4d95-9954-676276073545" />
+
 
 ---
 
