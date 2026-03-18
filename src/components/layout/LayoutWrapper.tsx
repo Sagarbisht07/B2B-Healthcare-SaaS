@@ -11,8 +11,6 @@ export const LayoutWrapper: React.FC = () => {
   const location = useLocation();
 
   useEffect(() => {
-    // Only use the real-time auth listener if we're not authenticated yet
-    // or to keep things in sync. For mock mode, we rely on Zustand persistence.
     if (!isAuthenticated) {
        setLoading('auth', true);
        const unsubscribe = onAuthStateChanged(auth, (user) => {

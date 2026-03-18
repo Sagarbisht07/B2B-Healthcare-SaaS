@@ -7,8 +7,8 @@ import { Card } from '../components/common/Card';
 import { Shield, Mail, Lock, Eye, EyeOff, CheckCircle2 } from 'lucide-react';
 
 export const Login: React.FC = () => {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const [email, setEmail] = useState('demo@careconnect.com');
+  const [password, setPassword] = useState('password123');
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
