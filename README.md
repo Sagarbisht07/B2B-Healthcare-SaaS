@@ -12,7 +12,7 @@ Experience a professional, secure entry point designed with high-trust aesthetic
 - **Persistent Sessions**: Your session remains active across tab closes and refreshes within a 1-hour security window.
 - **Demo Access**: Use `demo@careconnect.com` / `password123` to explore the full suite of tools.
 
-![Login Page]<img width="2319" height="1101" alt="image" src="https://github.com/user-attachments/assets/5b4558ea-31aa-4d95-9954-676276073545" />
+Login Page <img width="2319" height="1101" alt="image" src="https://github.com/user-attachments/assets/5b4558ea-31aa-4d95-9954-676276073545" />
 
 
 ---
@@ -23,7 +23,7 @@ Get a high-level overview of your facility’s health at a glance.
 - **Patient Volume Analytics**: Dynamic charting powered by Recharts for weekly traffic analysis.
 - **Clinical Alerts**: Instant notifications for missing lab results, new registrations, and pharmacy pickups.
 
-![Dashboard](file:///C:/Users/sagar/.gemini/antigravity/brain/6ee1a264-2cd9-4e15-ab34-ae4358fd05dd/dashboard_page_1773841069162.png)
+Dashboard <img width="2553" height="1263" alt="image" src="https://github.com/user-attachments/assets/53c750de-ff31-465d-9975-e649429a778c" />
 
 ---
 
@@ -34,7 +34,8 @@ Manage the full patient lifecycle with absolute precision.
 - **Full CRUD Support**: Securely add and remove patient records with clinical intake forms.
 - **Advanced Filtering**: Search by name, condition, or specialty instantly.
 
-![Patients](file:///C:/Users/sagar/.gemini/antigravity/brain/6ee1a264-2cd9-4e15-ab34-ae4358fd05dd/patients_grid_view_1773841080768.png)
+Patients <img width="2549" height="1154" alt="image" src="https://github.com/user-attachments/assets/8073d2eb-f5d7-4cf0-84ef-2b631930ec18" />
+
 
 ---
 
@@ -46,11 +47,14 @@ Configure your clinical environment and staff workspace.
 - **Security & Profile**: Comprehensive settings for profile management and organizational security.
 
 ````carousel
-![Clinic Management](file:///C:/Users/sagar/.gemini/antigravity/brain/6ee1a264-2cd9-4e15-ab34-ae4358fd05dd/clinic_management_page_1773841091730.png)
+Clinic Management <img width="2554" height="1054" alt="image" src="https://github.com/user-attachments/assets/0dabf9e0-01f6-4fe7-a01a-16d300b9c4a4" />
+
 <!-- slide -->
-![Settings](file:///C:/Users/sagar/.gemini/antigravity/brain/6ee1a264-2cd9-4e15-ab34-ae4358fd05dd/settings_page_1773841102230.png)
+ Settings <img width="2278" height="1075" alt="image" src="https://github.com/user-attachments/assets/55994687-ed06-458c-b337-30718ed3cde6" />
+
 <!-- slide -->
-![Analytics](file:///C:/Users/sagar/.gemini/antigravity/brain/6ee1a264-2cd9-4e15-ab34-ae4358fd05dd/analytics_page_1773841122864.png)
+ Analytics <img width="2271" height="1255" alt="image" src="https://github.com/user-attachments/assets/62a32e6e-b8ae-4c62-80b0-05f5bfee03bc" />
+
 ````
 
 ---
