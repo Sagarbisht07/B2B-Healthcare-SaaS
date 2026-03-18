@@ -78,7 +78,7 @@ Configure your clinical environment and staff workspace.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/careconnect-saas.git
+   git@github.com:Sagarbisht07/B2B-Healthcare-SaaS.git
    cd careconnect-saas
    ```
 
